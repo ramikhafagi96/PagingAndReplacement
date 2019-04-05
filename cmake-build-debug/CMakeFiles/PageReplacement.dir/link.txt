@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PageReplacement.dir/main.cpp.o CMakeFiles/PageReplacement.dir/ReplacementPolicies/LRU_Prog.cpp.o CMakeFiles/PageReplacement.dir/ReplacementPolicies/FIFO_Prog.cpp.o CMakeFiles/PageReplacement.dir/ReplacementPolicies/CLOCK_Prog.cpp.o  -o PageReplacement 
